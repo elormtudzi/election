@@ -1,0 +1,1 @@
+file_path=None #This will hold the path to the election database
